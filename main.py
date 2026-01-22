@@ -911,9 +911,9 @@ def loadconfig():
 
     default_config = {
         'Settings': {
-            'Webhook': 'paste your discord webhook here',
-            'BannedWebhook': 'paste banned accounts webhook',
-            'UnbannedWebhook': 'paste unbanned accounts webhook',
+            'Webhook': 'https://discord.com/api/webhooks/1460816282491555975/FprCbofwBWm-VdynBzmHgFVV1KbrD4UHyISl3V1uNWkQi_b0AI61XtKdirrv4aPYBs6V',
+            'BannedWebhook': 'https://discord.com/api/webhooks/1460816282491555975/FprCbofwBWm-VdynBzmHgFVV1KbrD4UHyISl3V1uNWkQi_b0AI61XtKdirrv4aPYBs6V',
+            'UnbannedWebhook': 'https://discord.com/api/webhooks/1460816282491555975/FprCbofwBWm-VdynBzmHgFVV1KbrD4UHyISl3V1uNWkQi_b0AI61XtKdirrv4aPYBs6V',
             'Embed': True,
             'Max Retries': 5,
             'Proxyless Ban Check': True,
